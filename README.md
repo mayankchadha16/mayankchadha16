@@ -1,7 +1,6 @@
 # 💫About Me :
 
 🤖 Exploring Machine Learning and Deep Learning <br/>
-🙇🏻‍♂️ I’m currently learning more on Web Development as well as Blockchain <br/>
 📞 How to reach me : Mail at Mayank.Chadha@iiitb.ac.in <br/>
 🕸 My Website : https://mayankchadha16.github.io/ <br/>
 
