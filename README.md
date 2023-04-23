@@ -1,8 +1,11 @@
+### Hi there 👋, I'm Mayank ✨
+
 # 💫About Me :
 
 🤖 Exploring Machine Learning and Deep Learning <br/>
 📞 How to reach me : Mail at Mayank.Chadha@iiitb.ac.in <br/>
 🕸 My Website : https://mayankchadha16.github.io/ <br/>
+👨‍💻 Want to explore my work, [Here](https://github.com/mayankchadha16?tab=repositories) are my projects <br/>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mayniak_16/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-chadha-245594205/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MayankC94610372) 
@@ -13,10 +16,10 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=mayankchadha16&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayankchadha16&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankchadha16&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankchadha16&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) <br/>
 
 <!-- ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mayankchadha16&theme=discord&no-frame=true&no-bg=false&margin-w=4) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mayankchadha16&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mayankchadha16&icon=0&color=12)](https://visitcount.itsvg.in)  <br/>
