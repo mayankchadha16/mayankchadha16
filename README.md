@@ -21,7 +21,7 @@
 
 # 📊GitHub Stats :
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mayankchadha16&theme=radical&hide_border=true&include_all_commits=false&count_private=true">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayankchadha16&theme=radical&hide_border=true&include_all_commits=false&count_private=true">
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankchadha16&theme=radical&hide_border=true">
 <!--     <br/> -->
