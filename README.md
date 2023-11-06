@@ -4,7 +4,6 @@
 
 🤖 Exploring Machine Learning and Deep Learning <br/>
 📞 How to reach me : Mail at Mayank.Chadha@iiitb.ac.in <br/>
-🕸 My Website : https://mayankchadha16.github.io/ <br/>
 👨‍💻 Want to explore my work, [Here](https://github.com/mayankchadha16?tab=repositories) are my projects <br/>
 
 ## Former Roles
