@@ -10,6 +10,8 @@
 - Lead, [GDSC - IIIT Bangalore](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)
 - Curator, [TEDxIIITBangalore](https://linktr.ee/tedxiiitbangalore2021)
 - Teaching Assistant, [IIITB](https://www.iiitb.ac.in/)
+    - Signals and Systems
+    - Mathematics for Machine Learning
 - Founder, [Chess Club IIITB](https://lichess.org/team/iiitb-official-chess-club)
 
 ## 🌐Socials
