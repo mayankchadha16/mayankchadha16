@@ -12,6 +12,7 @@
 - Teaching Assistant, [IIITB](https://www.iiitb.ac.in/)
     - Signals and Systems
     - Mathematics for Machine Learning
+    - Database Systems
 - Founder, [Chess Club IIITB](https://lichess.org/team/iiitb-official-chess-club)
 
 ## 🌐Socials
