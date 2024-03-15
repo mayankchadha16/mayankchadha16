@@ -2,7 +2,7 @@
 
 # 💫About Me :
 
-🤖 Exploring Machine Learning and Deep Learning <br/>
+🤖 Exploring Reinforcement Learning and Few Shot Learning <br/>
 📞 How to reach me : Mail at Mayank.Chadha@iiitb.ac.in <br/>
 👨‍💻 Want to explore my work, [Here](https://github.com/mayankchadha16?tab=repositories) are my projects <br/>
 
