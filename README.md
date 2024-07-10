@@ -7,6 +7,7 @@
 👨‍💻 Want to explore my work, [Here](https://github.com/mayankchadha16?tab=repositories) are my projects <br/>
 
 ## Former Roles
+- Project Intern, [Oracle](https://www.oracle.com/in/)
 - Lead, [GDSC - IIIT Bangalore](https://gdsc.community.dev/international-institute-of-information-technology-iiit-bangalore/)
 - Curator, [TEDxIIITBangalore](https://linktr.ee/tedxiiitbangalore2021)
 - Teaching Assistant, [IIITB](https://www.iiitb.ac.in/)
