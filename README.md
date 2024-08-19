@@ -2,7 +2,7 @@
 
 # 💫About Me :
 
-🤖 Exploring Reinforcement Learning and Working of Microservices <br/>
+🤖 Exploring the working of microservices and their design patterns<br/>
 📞 How to reach me : Mail at Mayank.Chadha@iiitb.ac.in <br/>
 👨‍💻 Want to explore my work, [Here](https://github.com/mayankchadha16?tab=repositories) are my projects <br/>
 
