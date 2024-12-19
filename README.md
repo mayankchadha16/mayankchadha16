@@ -14,6 +14,7 @@
     - Signals and Systems
     - Mathematics for Machine Learning
     - Database Systems
+    - Software Testing
 - Founder, [Chess Club IIITB](https://lichess.org/team/iiitb-official-chess-club)
 
 ## 🌐Socials
